@@ -9,7 +9,7 @@ Documentation: Each project is accompanied by detailed documentation, providing 
 
 ### Projects
 
-	[Australia Hasard Statistics](https://github.com/drgaquino/Code)
+[Australia Hasard Statistics](https://github.com/drgaquino/Code)
 
 ### Education
 
