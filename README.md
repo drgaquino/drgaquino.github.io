@@ -11,5 +11,8 @@ Documentation: Each project is accompanied by detailed documentation, providing 
 
 [Australia Hasard Statistics](https://github.com/drgaquino/Code)
 
+![](image/hasard.jpeg)
+
+
 ### Education
 
